@@ -1,0 +1,1 @@
+Place Johnlloyd's original, unaltered profile photo here and name it `johnlloyd-bacos.jpg`. The page uses this exact path for the hero portrait. Project art is currently labeled placeholder artwork and should be replaced with real project screenshots when available.
